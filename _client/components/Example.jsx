@@ -22,16 +22,15 @@ class Example extends Component {
 				</span>
 				<br />
 				<br />
-				<span>Included Features:</span>
+				<span>Supported Features:</span>
 				<ul>
 					<li>ES6</li>
 					<li>JSX</li>
 					<li>Babel Proposal Decorators</li>
-					<li>CSS Text Extractor</li>
 					<li>CSS Modules</li>
+					<li>CSS Text Extractor</li>
 					<li>Webpack Bundle for Scripts/CSS</li>
 					<li>Scripts/CSS injection with HTML-webpack-plugin</li>
-					<li>Custom build/start script</li>
 				</ul>
 				<span>Basic Scaffolding</span>
 				<ul>
@@ -46,6 +45,7 @@ class Example extends Component {
 					<li>
 						Express server with example routes and static asset configuration
 					</li>
+					<li>Express session with mongo-connect storage for user sessions</li>
 					<li>Mongoose with a simple Schema/Model example</li>
 				</ul>
 				<span>Extra:</span>
